@@ -7,6 +7,7 @@ def divisors():
         if result == 0:
             list1.append(x)
     print(num, "Divisors are: ", list1)
+    print("Testing GIT")
 
 
 divisors()
